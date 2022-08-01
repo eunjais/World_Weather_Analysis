@@ -16,3 +16,11 @@ Vacation Search utilizes user-input preference of maximum and minimum preferred 
 
 ## Vacation Itinerary
 Vacation Itinerary simulates roundabout roadtrip planning and organizing from a home point city to three different destinations and back, to the total of a route that connects four different cities. Using directions API from Google, this deliverable shows the documented directions route between the cities and furthermore, shows different map markers between said cities. 
+
+(The example chosen was accidentally not connected wholly by a driving route)
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/107447038/182051469-e5f91d31-e897-4ad4-a298-f7a0972681b9.png)
+
+(All the hotel informations listed here, though one overlaps)
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/107447038/182051474-ec64c2b8-6c76-4d85-b508-3665295ab31a.png)
+
+
